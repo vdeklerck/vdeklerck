@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Victor Deklerck
 - 👀 I’m interested in timber identification data analysis
 - 🌱 I’m currently learning pandas and RStudio
-- 💞️ I’m looking to collaborate on how to work on spectra data + spatial analysis mapping
+- 💞️ I’m looking to collaborate on how to work on spectra datal + spatial analysis mapping
 - 📫 How to reach me v.deklerck@kew.org
 
 <!---
